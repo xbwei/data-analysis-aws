@@ -6,5 +6,5 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
 
 ## Basic Usage
 1. [Link  GitHub to AWS SageMaker Jupyter Notebook](https://youtu.be/cnS813vKmPk)
-2. []
+2. [Create Jupyter Notebook on AWS SageMaker](https://youtu.be/D3MQlSGB6yc)
     * [Demo notebook](first-notebook.ipynb)
