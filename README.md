@@ -8,3 +8,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
 1. [Link  GitHub to AWS SageMaker Jupyter Notebook](https://youtu.be/cnS813vKmPk)
 2. [Create Jupyter Notebook on AWS SageMaker](https://youtu.be/D3MQlSGB6yc)
     * [Demo notebook](first-notebook.ipynb)
+3. [Facial Recognition on Raspberry Pi with AWS Rekognition](https://github.com/xbwei/data-analysis-aws/tree/master/facial-recognition-raspberry-pi)
