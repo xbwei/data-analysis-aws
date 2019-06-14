@@ -1,4 +1,4 @@
-# Big Data Analysis on AWS
+# Data Analytics on Amazon Web Service
 Introduce basic usage of Amazon Web Service (AWS) for data analysis and visualization, including python programming, data mining, data visualization and machine learning. 
 
 ## Video Tutorial
