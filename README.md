@@ -13,3 +13,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
 4. [Create VR Scene on AWS Sumerian](https://youtu.be/XqNbCAP2e9k)
 5. [Download Landsat Images from AWS](https://www.youtube.com/watch?v=9l0tjTc2Bkc&list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg&index=6&t=0s)
 6. [Manage AWS RDS in Python](https://github.com/xbwei/data-analysis-aws/blob/master/Manage-AWS-RDS-in-Python.ipynb)
+   * [Demo video](https://www.youtube.com/watch?v=gkzF9qjYnDQ)
