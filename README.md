@@ -14,3 +14,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
 5. [Download Landsat Images from AWS](https://www.youtube.com/watch?v=9l0tjTc2Bkc&list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg&index=6&t=0s)
 6. [Manage AWS RDS in Python](https://github.com/xbwei/data-analysis-aws/blob/master/Manage-AWS-RDS-in-Python.ipynb)
    * [Demo video](https://www.youtube.com/watch?v=gkzF9qjYnDQ)
+7. [Hosting a Static Website on AWS](https://www.youtube.com/watch?v=Lxg_rlbeVKA&feature=youtu.be)
