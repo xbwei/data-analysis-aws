@@ -16,3 +16,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
 7. [Manage AWS Cloud Database in Python](https://github.com/xbwei/data-analysis-aws/blob/master/Manage-AWS-RDS-in-Python.ipynb)
    * [Demo video](https://www.youtube.com/watch?v=gkzF9qjYnDQ)
 8. [Hosting a Static Website on AWS](https://www.youtube.com/watch?v=Lxg_rlbeVKA&feature=youtu.be)
+9. [QuickSight Quick Start](https://www.youtube.com/watch?v=F5IiM8tEd9o&feature=youtu.be)
