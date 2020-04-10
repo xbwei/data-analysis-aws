@@ -17,3 +17,6 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
    * [Demo video](https://www.youtube.com/watch?v=gkzF9qjYnDQ)
 8. [Hosting a Static Website on AWS](https://www.youtube.com/watch?v=Lxg_rlbeVKA&feature=youtu.be)
 9. [QuickSight Quick Start](https://www.youtube.com/watch?v=F5IiM8tEd9o&feature=youtu.be)
+10. [Use AWS AppStream to Create a Virtual Lab](https://youtu.be/r6OBYyYtiJ4)
+11. [Build a Remote Desktop with AWS WorkSpaces](https://youtu.be/NygwXbgXmhU)
+12. [AWS Educate Quick Start](https://youtu.be/fgIScI9CjCE)
