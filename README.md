@@ -23,3 +23,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
 13. [A Simple Face Comparison Code with AWS Rekognition](https://github.com/xbwei/data-analysis-aws/blob/master/Simple_Facial_Compare.ipynb)
     * [Demo video](https://youtu.be/Bz3_Z1ZdTO4)
 14. [Host a Static Website on AWS EC2 Instances](https://youtu.be/LAhIogO9TOY)
+15. [Create an AWS RDS Instance](https://youtu.be/tYDdMvFXbQE)
