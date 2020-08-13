@@ -25,3 +25,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
 14. [Host a Static Website on AWS EC2 Instances](https://youtu.be/LAhIogO9TOY)
 15. [Create an AWS RDS Instance](https://youtu.be/tYDdMvFXbQE)
 16. [Explore and Visualize Data in AWS QuickSight](https://youtu.be/-OzV1AiSoYs)
+17. [Use QuickSight and Athena to Explore Data in AWS S3](https://youtu.be/N3Fo1OwDfyk)
