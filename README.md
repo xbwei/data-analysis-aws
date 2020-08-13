@@ -24,3 +24,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
     * [Demo video](https://youtu.be/Bz3_Z1ZdTO4)
 14. [Host a Static Website on AWS EC2 Instances](https://youtu.be/LAhIogO9TOY)
 15. [Create an AWS RDS Instance](https://youtu.be/tYDdMvFXbQE)
+16. [Explore and Visualize Data in AWS QuickSight](https://youtu.be/-OzV1AiSoYs)
