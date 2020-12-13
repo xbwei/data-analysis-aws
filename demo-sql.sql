@@ -1,3 +1,5 @@
+-- create a table
+
 CREATE TABLE public.student
 (
     s_id integer NOT NULL,
