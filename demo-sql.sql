@@ -12,19 +12,19 @@ CREATE TABLE public.student
 -- adding data
 
 insert into public.student (s_id,s_name,s_major,s_year)
-values ('1','s1','GS','2020');
+values (1,'s1','GS',2020);
 
 insert into public.student (s_id,s_name,s_major,s_year)
-values ('2','s2','IA','2020');
+values (2,'s2','IA',2020);
 
 insert into public.student (s_id,s_name,s_major,s_year)
-values ('3','s3','CS','2019');
+values (3,'s3','CS',2019);
 
 insert into public.student (s_id,s_name,s_major,s_year)
-values ('4','s4','GS','2019');
+values (4,'s4','GS',2019);
 
 insert into public.student (s_id,s_name,s_major,s_year)
-values ('5','s5','GS','2019');
+values (5,'s5','GS',2019);
 
 -- querying data
 
