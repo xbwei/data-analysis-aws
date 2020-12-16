@@ -27,3 +27,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
     * [Demo SQL](https://github.com/xbwei/data-analysis-aws/blob/master/demo-sql.sql)
 16. [Explore and Visualize Data in AWS QuickSight](https://youtu.be/-OzV1AiSoYs)
 17. [Use QuickSight and Athena to Explore Data in AWS S3](https://youtu.be/N3Fo1OwDfyk)
+    * [Athena SQL Code](https://github.com/xbwei/data-analysis-aws/blob/master/Athena-code.sql)
