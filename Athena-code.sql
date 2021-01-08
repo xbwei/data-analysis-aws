@@ -24,7 +24,7 @@ LOCATION 's3://athena-examples-us-east-1/elb/orc/year=2015/month=01/'
 tblproperties ("orc.compress"="ZLIB");
 
 
--- simpe queries
+-- simple queries
 SELECT * FROM elb_logs_orc
 limit 10;
 
