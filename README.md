@@ -29,3 +29,5 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
 17. [Use QuickSight and Athena to Explore Data in AWS S3](https://youtu.be/N3Fo1OwDfyk)
     * [Athena SQL Code](https://github.com/xbwei/data-analysis-aws/blob/master/Athena-code.sql)
 18. [Explore AWS Console](https://youtu.be/MZybVLorut8)
+19. [Host a Website with an AWS EC2 Instance](https://youtu.be/oa2hXUYGjm8)
+    * [User Data for EC2](https://github.com/xbwei/data-analysis-aws/blob/master/user_data_for_EC2)
