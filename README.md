@@ -33,3 +33,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByHc4Vyck20Jg3TSRGFEtVg
     * [User Data for EC2](https://github.com/xbwei/data-analysis-aws/blob/master/user_data_for_EC2)
 20. [Python Programming with AI](https://youtu.be/qprti5_OemQ)
 21. [Use AWS to Identify Twitter Topics and Sentiments](https://youtu.be/arIeTlVbMxU)
+22. [ A Serverless Dashboard to Analyze and Visualize Social Media Data in Real-time](https://github.com/xbwei/Data-Mining-on-Social-Media/tree/master/real-time-sentiment)
